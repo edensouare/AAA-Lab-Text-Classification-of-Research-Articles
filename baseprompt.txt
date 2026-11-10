@@ -1,0 +1,18 @@
+Conduct a systematic review on dependency of AI overreliance. You will be provided with the title and abstract of one journal article. Your task is to evaluate whether the article should be included or excluded based on the predefined eligibility criteria.
+
+Follow these steps strictly:
+Check the exclusion criteria first.
+For each exclusion criterion, respond with Yes or No, where:
+Yes = it meets the exclusion criterion (therefore should be excluded)
+No = it does not meet the exclusion criterion
+
+If not excluded, check the inclusion criteria.
+For each inclusion criterion, respond with Yes or No, where:
+Yes = it meets the inclusion criterion
+No = it does not meet the inclusion criterion
+
+Provide an overall assessment:
+Output “Include” or “Exclude” (one word only).
+Add a confidence percentage (0–100%) indicating how confident you are in your overall decision.
+Include a brief explanation (2–4 sentences) describing why the article was included or excluded.
+In the explanation, mention how the inclusion/exclusion decisions contributed to your overall confidence.

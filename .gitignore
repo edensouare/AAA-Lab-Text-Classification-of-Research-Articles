@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.py[cod]
+typesafe_screening_cache*.jsonl
+typesafe_*results*.csv
+typesafe_pilot_results.csv

@@ -1,0 +1,39 @@
+Exclusion Criteria:
+
+1. Studies measuring anatomical and structural, electrophysiological, histological and/or outcomes and where genomic, proteomic or metabolomic outcomes are measured in addition to anatomical, histological or neurochemical outcomes.
+
+2. Studies focused on agriculture, energy, resources, materials science, drug discovery, or other industrial/technical development
+
+3. Neurotechnology or biomedical research restricted to laboratory or pre-clinical contexts
+
+4. AI studies centered on algorithm development, performance optimization, or hardware implementation without a health/mental health focus
+
+5. AI applications in domains like logistics, resource management, or machine efficiency without clear relevance to health or mental health
+
+6. Not published in the English language.
+
+7. Non-academic research paper
+
+Inclusion Criteria: 
+
+1. Any article providing primary data of an dependency of AI overreliance or AI addiction
+
+2. Studies on problematic dependence, addiction, or excessive immersion leading to psychological or social dysfunction
+
+3. Research addressing AI use and dependence
+
+4. Analyses of mechanisms such as cognitive dependence (delegating information processing or judgment to AI), relational dependence (preferring AI interaction over human interaction), loss of autonomy, reduced self-efficacy, or social isolation
+
+5. Research comparing variations across demographic factors (e.g., age, gender, socioeconomic status, digital literacy)
+
+6. AI Overreliance
+
+Studies examining excessive or uncritical reliance on artificial intelligence, algorithms, or automated systems.(examples include: Automation bias – the tendency to accept AI outputs even when erroneous. Over trust in AI – lack of critical evaluation of AI recommendations. Decision-support dependency – situations where humans defer judgment entirely to AI systems.)
+
+7. AI Addiction
+
+Studies addressing compulsive or addictive patterns of AI use. (Examples include: Excessive engagement with conversational AI systems (e.g., ChatGPT, Replika). Reward-driven or compulsive use of AI-powered gaming or social media platforms. Loss of control or self-regulation failure in AI use.)
+
+8. AI Dependency
+
+Studies focusing on reliance on AI for everyday tasks or cognitive functions. (Examples include: Cognitive offloading – delegating memory, problem-solving, or decision-making to AI. Learned helplessness – inability to function effectively without AI assistance. Skill degradation – diminishing human expertise or performance due to persistent AI reliance.)
